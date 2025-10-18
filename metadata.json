@@ -1,0 +1,5 @@
+{
+  "name": "Unite",
+  "description": "An application that uses AI to merge two photos, creating an image where the subjects from each photo appear to be hugging naturally against a clean, white background.",
+  "requestFramePermissions": []
+}
